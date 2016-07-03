@@ -15,7 +15,7 @@
 
 0. Beide Namen werden nach dem Alphabet sortiert und ihre Einzelbuchstaben in einen Array aus Buchstaben geschrieben. (Sonderzeichen werden hierbei in die Buchstaben des 26stelligen Grundalphabets umgewandelt).
  ``` java
-[G', E, R, N, O, T, R, E, N, A, T, E]
+[G, E, R, N, O, T, R, E, N, A, T, E]
 ```
 
 1. Anschließend wird unter jeden Buchstaben geschrieben, wie oft er im gesamten Array vorkommt. Die Zahlen bilden den neuen Array.
